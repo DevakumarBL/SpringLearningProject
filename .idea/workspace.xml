@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="969705f8-354c-4cf2-89d3-26971098ce7c" name="Changes" comment="Learning How To Use&#10;1.RestController&#10;2.RequestMapping&#10;3.RestApiMethods" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="FILTER_BY_REPOSITORY_IN_POPUP" value="false" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/SpringLearning" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SpringLearning" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="33NHZJF01Kkkbq2AgQwKU0FTLR0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.SpringLearningApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bl nithish deva/Downloads/SpringLearning&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="SpringLearningApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dev.SpringLearning.SpringLearning.SpringLearningApplication" />
+      <module name="SpringLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dev.SpringLearning.SpringLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringLearningApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="969705f8-354c-4cf2-89d3-26971098ce7c" name="Changes" comment="" />
+      <created>1759150664025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759150664025</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Learning How To Use&#10;1.RestController&#10;2.RequestMapping&#10;3.RestApiMethods">
+      <option name="closed" value="true" />
+      <created>1759717116481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759717116481</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Learning How To Use&#10;1.RestController&#10;2.RequestMapping&#10;3.RestApiMethods">
+      <option name="closed" value="true" />
+      <created>1759717191419</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759717191419</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Learning How To Use&#10;1.RestController&#10;2.RequestMapping&#10;3.RestApiMethods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning How To Use&#10;1.RestController&#10;2.RequestMapping&#10;3.RestApiMethods" />
+  </component>
+</project>
